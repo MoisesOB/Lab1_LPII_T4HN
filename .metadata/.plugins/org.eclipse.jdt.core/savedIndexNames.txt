@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+E:\Curso_JavaWeb2\Lab1_LPII_T4KN\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1156110363.index
+3159578004.index
+2226120683.index
+912011766.index
+3781328844.index
+1356630873.index
+1823083465.index
+2591310051.index
+915473111.index
+2736262487.index
+3129744172.index
+3452083290.index
+1751462505.index
+2351866021.index
+3797950611.index
+963574050.index
+4102351152.index
+4183360668.index
+1691696486.index
+31885643.index

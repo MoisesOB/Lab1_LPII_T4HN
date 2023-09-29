@@ -1,0 +1,13 @@
+package Views;
+
+import controllers.EmpleadoController;
+
+public class EmpleadoView {
+
+	public static void main(String[] args) {
+		//CREAR USUARIO
+		String empleado = new EmpleadoController().createEmpleado("Sánchez","Ana",26,"Femenino",4200);
+		System.out.println(empleado);
+	}
+
+}
